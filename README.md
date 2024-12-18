@@ -1,1 +1,2 @@
 # CREW-TRACKER
+Crew Tracker is a desktop-based application developed in Java using AWT and Swing for its user interface and sql for database. It is designed to manage crew member details with functionality for viewing, updating, and deleting records. By leveraging AWT and Swing, the application provides an interactive and visually appealing interface, ensuring ease of use and enhanced user experience and sql workbench for manipulating the data.
